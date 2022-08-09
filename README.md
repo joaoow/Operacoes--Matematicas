@@ -1,2 +1,2 @@
-# Opera-es-Matem-ticas
+# Operações-Matemáticas
 operações matemáticas com o valor atribuído na variável 
